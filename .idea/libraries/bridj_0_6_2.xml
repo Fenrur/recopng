@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="bridj-0.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/lib/bridj-0.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/jai_codec.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/jai_core.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/jai_imageio.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/java-sdk-6.2.0-jar-with-dependencies.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/pelican.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/slf4j-simple-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lib/webcam-capture-0.3.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/lib/pelican.jar!/" />
+    </SOURCES>
+  </library>
+</component>
